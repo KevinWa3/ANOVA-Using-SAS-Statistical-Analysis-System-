@@ -4,4 +4,4 @@ Are there statistically significant differences in socio-economic status between
 Dataset obtained from: https://www.kaggle.com/datasets/toriqulstu/global-socio-economic-and-environmental-indicators.
 master_edit.csv is the final merged dataset used which was created from the 4 csvs in the kaggle dataset. 
 FinalPresentation.sas is the raw SAS code file and Results_FinalPresentation.pdf is the output of the code. 
-SAS-ANOVA-presentation.pptx is the final presentation of findings from this project. 
+SAS-ANOVA-Presentation.pptx is the final presentation of findings from this project. 
